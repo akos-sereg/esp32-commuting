@@ -1,0 +1,1 @@
+This folder includes the application that you can deploy to your ESP32 board

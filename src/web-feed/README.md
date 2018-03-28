@@ -1,0 +1,2 @@
+This folder includes a sample REST service endpoint that is considered as a data source for the ESP 32 module.
+You can implement something similar in whatever language you want, and you have to host it somewhere. 
